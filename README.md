@@ -6,7 +6,7 @@
 + Giải quyết các tình huống tranh chấp
 + Xác định được người dùng và nhóm người dùng
 + Xác định quyền và cài đặt phân quyền cho người dùng
-+ cài đặt demo ứng dụng Winform C#
++ Cài đặt demo ứng dụng Winform C#
 
 Team members:
 + 20120079_Trịnh Hữu Hiệp
