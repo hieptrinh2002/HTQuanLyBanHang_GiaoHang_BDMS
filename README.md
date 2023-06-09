@@ -7,3 +7,8 @@
 + Xác định được người dùng và nhóm người dùng
 + Xác định quyền và cài đặt phân quyền cho người dùng
 + cài đặt demo ứng dụng Winform C#
+Team members :
++ 20120079_Trịnh Hữu Hiệp
++ 20120093_Nguyễn Thị Hồng Nhung
++ 20120177_Trần Thái San
++ 20120229_Nguyễn Nhật Trường
